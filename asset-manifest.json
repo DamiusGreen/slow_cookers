@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slow_cookers/static/css/main.6587be9e.chunk.css",
+    "main.js": "/slow_cookers/static/js/main.5f8d4543.chunk.js",
+    "main.js.map": "/slow_cookers/static/js/main.5f8d4543.chunk.js.map",
+    "runtime~main.js": "/slow_cookers/static/js/runtime~main.ccd4388c.js",
+    "runtime~main.js.map": "/slow_cookers/static/js/runtime~main.ccd4388c.js.map",
+    "static/js/2.25b1c4fe.chunk.js": "/slow_cookers/static/js/2.25b1c4fe.chunk.js",
+    "static/js/2.25b1c4fe.chunk.js.map": "/slow_cookers/static/js/2.25b1c4fe.chunk.js.map",
+    "index.html": "/slow_cookers/index.html",
+    "precache-manifest.b4e84494db0ecd9d6ebdffe4d23a5b59.js": "/slow_cookers/precache-manifest.b4e84494db0ecd9d6ebdffe4d23a5b59.js",
+    "service-worker.js": "/slow_cookers/service-worker.js",
+    "static/css/main.6587be9e.chunk.css.map": "/slow_cookers/static/css/main.6587be9e.chunk.css.map"
+  }
+}
